@@ -1,0 +1,4 @@
+[editor.lsp]
+enable = true
+display-messages = true
+display-inlay-hints = true
